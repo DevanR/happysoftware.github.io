@@ -6,10 +6,10 @@ layout: default
 
 ## Recent Projects
 
-Here's a glimpse into some of my recent work. Each project reflects my commitment to excellence and innovation in
-software development.
+Here's a glimpse into some of my recent work. Each project reflects my commitment to excellence and innovation in software development.
 
-- [Project Name 1](./portfolio/project-1.html) - A brief description of what the project entails.
+- [Happy Guitar](https://guitar.happy.software) - Interactive guitar fretboard and chord trainer with audio feedback and XP progression.
+- [CronPing](https://ping.happy.software) - Cron job monitoring service that alerts you when your scheduled tasks fail.
 
 ## Get in Touch
 
@@ -19,4 +19,4 @@ Interested in collaborating or learning more about my work? Feel free to reach o
 
 ## Explore further:
 
-- [Portfolio](./portfolio/index.html) - Insights and thoughts on backend development and AI.
+- [Portfolio](./portfolio/index.html) - Full project details and technical deep-dives.
